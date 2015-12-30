@@ -4,30 +4,37 @@ description: 'Install with commonly used features pre-configured.'
 version: VERSION
 core: 8.x
 dependencies:
-  - node
+  - admin_toolbar
+  - automated_cron
   - block
+  - block_content
   - breakpoint
   - config
   - contextual
-  - menu_link_content
   - datetime
-  - block_content
-  - quickedit
-  - editor
-  - image
-  - menu_ui
-  - options
-  - path
-  - page_cache
+  - devel
   - dynamic_page_cache
-  - taxonomy
-  - toolbar
+  - editor
+  - features
+  - fences
+  - field_group
   - field_ui
   - file
+  - image
+  - menu_link_content
+  - menu_ui
+  - metatag
+  - node
+  - options
+  - page_cache
+  - paragraphs
+  - path
+  - quickedit
   - rdf
+  - taxonomy
+  - toolbar
   - views
   - views_ui
-  - automated_cron
 themes:
   - bartik
   - seven
