@@ -1,0 +1,15 @@
+uuid: bfb24b65-e1f8-45e9-8e00-ef8146ab8933
+langcode: en
+status: true
+dependencies: {  }
+name: glacier_profile_zoom_large_1x
+label: 'Zoom (large | 1x | 1280x)'
+effects:
+  11c215c3-1bf6-4b68-a300-de3eedaff0ac:
+    uuid: 11c215c3-1bf6-4b68-a300-de3eedaff0ac
+    id: image_scale
+    weight: 1
+    data:
+      width: 1280
+      height: null
+      upscale: false

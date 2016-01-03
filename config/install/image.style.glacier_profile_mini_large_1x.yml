@@ -1,0 +1,14 @@
+uuid: bf6b1642-3797-45b2-b953-83c80ba736e2
+langcode: en
+status: true
+dependencies: {  }
+name: glacier_profile_mini_large_1x
+label: 'Mini (large | 1x | 50x50)'
+effects:
+  76b8e9e8-a7d3-4ead-802a-428173ee166b:
+    uuid: 76b8e9e8-a7d3-4ead-802a-428173ee166b
+    id: image_scale_and_crop
+    weight: 1
+    data:
+      width: 50
+      height: 50
