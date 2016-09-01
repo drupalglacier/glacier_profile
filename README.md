@@ -1,4 +1,4 @@
-# glacier Profile
+# glacier Profile (DEPRECATED!)
 This is a Drupal 8 install profile intended to be used in combination with
 [glacier Deploy](https://github.com/drupalglacier/glacier_deploy).
 
